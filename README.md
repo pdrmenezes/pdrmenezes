@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @pdrmenezes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi! I’m Pedro, how are you today? (:
+- I'm currently studying to become a full stack developement @DigitalHouse
+- You can check my work @<a href="https://www.pdrmenezes.com">pdrmenezes.com</a>
+- Or say hi pdrmenezes1@gmail.com
 
-<!---
-pdrmenezes/pdrmenezes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
 
 <div>
   <a href="https://github.com/pdrmenezes">
