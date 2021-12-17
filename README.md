@@ -1,5 +1,5 @@
 ## Hi! I’m Pedro, how are you today? (:
-- I'm currently studying to become a full stack developement @DigitalHouse
+- I'm currently studying to become a full stack developer @DigitalHouse
 - You can check my work @<a href="https://www.pdrmenezes.com">pdrmenezes.com</a>
 - Or say hi pdrmenezes1@gmail.com
 
