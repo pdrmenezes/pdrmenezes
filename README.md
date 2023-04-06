@@ -1,13 +1,27 @@
 ## Hi! I’m Pedro, how are you today? (:
-- I'm currently studying to become a front-end developer <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">@DigitalHouse</a>
-- You can check my work @<a href="https://www.pdrmenezes.com">pdrmenezes.com</a>
+- I'm a web-savvy front-end developer with a background in webdesign
+- Currently studying <a href="https://www.digitalhouse.com/">@DigitalHouse</a>
+- You can check my past work <a href="https://www.pdrmenezes.com">@pdrmenezes.com</a>
 - My experiences on <a href="https://www.linkedin.com/in/pdrmenezes/">Linkedin</a>
 - Or say hi pdrmenezes1@gmail.com
 
 ##
 
-<div>
-  <a href="https://github.com/pdrmenezes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pdrmenezes&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrmenezes&layout=compact&langs_count=7&theme=nord"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-f0f0f0?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS-f0f0f0?&style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-f0f0f0?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-f0f0f0?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+  </br>
+  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=764abc"/>
+  <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+  </br>    
+  <img src="https://img.shields.io/badge/Tailwind_CSS-f0f0f0?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Material--UI-f0f0f0?style=for-the-badge&logo=mui&logoColor=0081CB"/>
+  <img src="https://img.shields.io/badge/styled--components-f0f0f0?style=for-the-badge&logo=styled-components&logoColor=DB7093"/>
+  <img src="https://img.shields.io/badge/Jest-f0f0f0?style=for-the-badge&logo=Jest&logoColor=c21325"/>
 </div>
