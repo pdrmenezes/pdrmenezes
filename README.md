@@ -1,5 +1,5 @@
 ## Hi! I’m Pedro, how are you today? (:
-- I'm a web-savvy front-end developer with a background in webdesign
+- I'm a front-end developer with a background in webdesign
 - Currently studying <a href="https://www.digitalhouse.com/">@DigitalHouse</a>
 - You can check my past work <a href="https://www.pdrmenezes.com">@pdrmenezes.com</a>
 - My experiences on <a href="https://www.linkedin.com/in/pdrmenezes/">Linkedin</a>
