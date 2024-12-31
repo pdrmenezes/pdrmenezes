@@ -2,7 +2,7 @@
 - I'm a front-end developer with a background in graphic & ui design
 - You can check my past work @ <a href="https://www.pdrmenezes.com">pdrmenezes.com</a>
 - My experiences on <a href="https://www.linkedin.com/in/pdrmenezes/">Linkedin</a>
-- Or say hi pdrmenezes1@gmail.com
+- Or say hi hi@pdrmenezes.com
 
 ##
 
